@@ -1,0 +1,22 @@
+# ﻿n,kanji,significado,junyomi,onyomi,exemplos
+1;日;sol,dia;ひ,-び,-か;二,ニチ;日(ひ)=sol,dia;日本(に　ほん/にっ　ぽん)=Japón;日曜日(にち よう び)=domingo;三日(みっ　か)=dia 3
+2;月;luna,mes;つき;ゲツ,ガツ;月(つき)=luna,mes;月曜日(げつ　よう　び)=lunes;一月(いち　がつ)=enero;一か月(いっ　か　げつ)=un mes
+3;木;árbol;き;モク,ボク;木(き)=árbol;木曜日(もく　よう　び)=jueves;木村(き　むら)=Sr. Kimura
+4;山;montaña;やま;セン;山(やま)=montaña;富士山(ふ　じ　さん)=monte Fuji;山下(やま　した)=Sr. Yamashita;火山(か　ざん)=volcán
+5;川;rio;かわ,がわ;;川(かわ)=rio;ナイル川(ないる　かわ)=rio Nilo
+6;田;arrozal;た,だ;デン;田んぼ(た　んぼ)=arrozal;山田(やまだ)=sr. Yamada;水田(すい　でん)=arrozal inundado;田中(た　なか)=Sr. Tanaka
+7;人;hombre,persona;ひと;ジン,ニン;人(ひと)=hombre,persona;三人(さん　にん)=3 personas;日本人(に　ほん　じん)=japonés
+8;口;boca;くち,ぐち;コウ;口(くち)=boca;入口(いり　ぐち)=entrada;出口(で　ぐち)=salida;人口(じん　こう)=población
+9;車;coche;くるま;シャ;車(くるま)=coche;自動車(し　どう　しゃ)=automovil;電車(でん　しゃ)=tren
+10;門;portón;;モン;門(もん)=portón;専門(せん　もん)=especialidad
+11;火;fuego;ひ;カ;火(ひ)=fuego;火曜日(か　よう　び)=martes;火山(か　ざん)=volcán
+12;水;agua;みず;スイ;水(みず)=agua;水曜日(すい　よう　よび)=miercoles;水田(すい　でん)=arrozal inundado
+13;金;oro,dinero,metal;かね;キン;お金(お　かね)=dinero;金(きん)=oro;金田(かね　だ)=Sr. Kaneda;金曜日(きん　よう　び)=viernes
+14;土;suelo,tierra;つち;ド;土(つち)=suelo;土曜日(ど　よう　び)=sábado;土木(ど　ぼく)=obra civil
+15;子;niño;こ;シ;子ども(こ　ども)=niño;女子学生(じょ　し　がく　せい)=niña estudiante;女の子(おんな　の　こ)=chica
+16;女;mujer;おんな;ジョ;女(おんな)=mujer;彼女(かの　じょ)=ella;女の人(おんな　の　ひと)=mujer
+17;学;estudiar;;ガク;学生(がく　せい)=estudiante;学校(がっ　こう)=escuela;大学(だい　がく)=universidad
+18;生;vivir,nacer;い,う;セイ;生きる(い　きる)=vivir;生まれる(う　まれる)=nacer;先生(せん　せい)=maestro;学生(がく　せい)=estudiante
+19;先;previamente,adelante;さき;セン;先(さき)=adelante;先生(せん　せい)=maestro;先月(せん　げつ)=el mes pasado
+20;私;yo;わたし,わたくし;シ;私(わたし)=yo;私立大学(し　りつ　だい　がく)=universidad privada
+#10;;;,,,,;,,,,;()=;()=;()=;()=

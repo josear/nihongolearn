@@ -1,0 +1,3 @@
+./bkb.pl --iter=def --fields=Kanji,Defs > bkb_kanji_defs.txt
+./bkb.pl --iter=words --fields=Word,Pronun > bkb_word_pronun.txt
+./bkb.pl --iter=words --fields=Word,Meaning > bkb_word_meaning.txt
