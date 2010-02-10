@@ -11,6 +11,7 @@ my $delim = "\t";
 my $iter = 'def';
 my $fields = 'Kanji';
 
+my $file_name = shift;
 GetOptions(
 	"iter=s" => \$iter,
 	"fields=s" => \$fields,
@@ -47,10 +48,8 @@ sub wordIter {
 }
 
 sub loadDefs {
-	my $file_name = "bkb.txt";
-	open FILE, $file_name
-		or "Can't open $file_name: $!\n";
-	# 1;日;sol,dia;ひ,-び,-か;二,ニチ;日本(に　ほん/にっ　ぽん)=Japón
+	open (FILE, $file_name)
+		or die "Can't open $file_name: $!\n";
 	while (<FILE>) {
 		next if /^\s*#/; # Ignore comments
 

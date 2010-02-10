@@ -1,6 +1,8 @@
 BIN=./bin
-DATA=./data/gen
+DATA=./data
+GEN=$DATA/gen
+DEFS=$DATA/bkb.txt
 
-$BIN/bkb.pl --iter=def --fields=Kanji,Defs > $DATA/bkb_kanji_defs.txt
-$BIN/bkb.pl --iter=words --fields=Word,Pronun > $DATA/bkb_word_pronun.txt
-$BIN/bkb.pl --iter=words --fields=Word,Meaning > $DATA/bkb_word_meaning.txt
+$BIN/bkb.pl $DEFS --iter=def --fields=Kanji,Defs > $GEN/bkb_kanji_defs.txt
+$BIN/bkb.pl $DEFS --iter=words --fields=Word,Pronun > $GEN/bkb_word_pronun.txt
+$BIN/bkb.pl $DEFS --iter=words --fields=Word,Meaning > $GEN/bkb_word_meaning.txt

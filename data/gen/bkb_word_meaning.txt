@@ -1,0 +1,60 @@
+日	sol,dia
+日本	Japón
+日曜日	domingo
+三日	dia 3
+月	luna,mes
+月曜日	lunes
+一月	enero
+一か月	un mes
+木	árbol
+木曜日	jueves
+木村	Sr. Kimura
+山	montaña
+富士山	monte Fuji
+山下	Sr. Yamashita
+火山	volcán
+川	rio
+ナイル川	rio Nilo
+田んぼ	arrozal
+山田	sr. Yamada
+水田	arrozal inundado
+田中	Sr. Tanaka
+人	hombre,persona
+三人	3 personas
+日本人	japonés
+口	boca
+入口	entrada
+出口	salida
+人口	población
+車	coche
+自動車	automovil
+電車	tren
+門	portón
+専門	especialidad
+火	fuego
+火曜日	martes
+水	agua
+水曜日	miercoles
+お金	dinero
+金	oro
+金田	Sr. Kaneda
+金曜日	viernes
+土	suelo
+土曜日	sábado
+土木	obra civil
+子ども	niño
+女子学生	niña estudiante
+女の子	chica
+女	mujer
+彼女	ella
+女の人	mujer
+学生	estudiante
+学校	escuela
+大学	universidad
+生きる	vivir
+生まれる	nacer
+先生	maestro
+先	adelante
+先月	el mes pasado
+私	yo
+私立大学	universidad privada
