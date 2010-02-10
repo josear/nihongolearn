@@ -1,4 +1,4 @@
-# ﻿n,kanji,significado,junyomi,onyomi,exemplos
+# ﻿n,kanji,significado,kunyomi,onyomi,exemplos
 1;日;sol,dia;ひ,-び,-か;二,ニチ;日(ひ)=sol,dia;日本(に　ほん/にっ　ぽん)=Japón;日曜日(にち よう び)=domingo;三日(みっ　か)=dia 3
 2;月;luna,mes;つき;ゲツ,ガツ;月(つき)=luna,mes;月曜日(げつ　よう　び)=lunes;一月(いち　がつ)=enero;一か月(いっ　か　げつ)=un mes
 3;木;árbol;き;モク,ボク;木(き)=árbol;木曜日(もく　よう　び)=jueves;木村(き　むら)=Sr. Kimura
