@@ -48,7 +48,7 @@ sub wordIter {
 
 sub loadDefs {
 	my $file_name = "bkb.txt";
-	open(FILE, $file_name)
+	open FILE, $file_name
 		or "Can't open $file_name: $!\n";
 	# 1;日;sol,dia;ひ,-び,-か;二,ニチ;日本(に　ほん/にっ　ぽん)=Japón
 	while (<FILE>) {

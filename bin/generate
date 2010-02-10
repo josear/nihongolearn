@@ -1,3 +1,6 @@
-./bkb.pl --iter=def --fields=Kanji,Defs > bkb_kanji_defs.txt
-./bkb.pl --iter=words --fields=Word,Pronun > bkb_word_pronun.txt
-./bkb.pl --iter=words --fields=Word,Meaning > bkb_word_meaning.txt
+BIN=./bin
+DATA=./data/gen
+
+$BIN/bkb.pl --iter=def --fields=Kanji,Defs > $DATA/bkb_kanji_defs.txt
+$BIN/bkb.pl --iter=words --fields=Word,Pronun > $DATA/bkb_word_pronun.txt
+$BIN/bkb.pl --iter=words --fields=Word,Meaning > $DATA/bkb_word_meaning.txt
