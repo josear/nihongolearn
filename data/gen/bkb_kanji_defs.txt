@@ -18,3 +18,18 @@
 生	vivir,nacer
 先	previamente,adelante
 私	yo
+一	uno
+二	dos
+三	tres
+四	cuatro
+五	cinco
+六	seis
+七	siete
+八	ocho
+九	nueve
+十	diez
+百	cien
+千	mil
+万	diez mil,todo
+円	yen,circulo
+年	año,edad

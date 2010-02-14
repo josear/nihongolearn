@@ -19,4 +19,19 @@
 18;生;vivir,nacer;い,う;セイ;生きる(い　きる)=vivir;生まれる(う　まれる)=nacer;先生(せん　せい)=maestro;学生(がく　せい)=estudiante
 19;先;previamente,adelante;さき;セン;先(さき)=adelante;先生(せん　せい)=maestro;先月(せん　げつ)=el mes pasado
 20;私;yo;わたし,わたくし;シ;私(わたし)=yo;私立大学(し　りつ　だい　がく)=universidad privada
+21;一;uno;ひと;イチ;一つ(ひと　つ)=una cosa;一月(いち　がつ)=enero;一人(ひと　り)=una persona;一年(いち　ねん)=un año
+22;二;dos;ふた;ニ;二つ(ふた　つ)=dos cosas;二月(に　がつ)=febrero;二人(ふた　り)=dos personas;二年(に　ねん)=dos años;二年間(に　ねん　かん)=durante dos años
+23;三;tres;みっ;セン;三つ(みっ　つ)=tres cosas;三月(さん　がつ)=marzo;三日(みっ　か)=dia tres;三年(さん　ねん)=tres años
+24;四;cuatro;よっ,よん,よ;シ;四つ(よっ　つ)=cuatro cosas;四月(し　がつ)=abril;四日(よっ　か)=dia cinco;四年(よ　ねん)=cuatro años;四人(よ　にん)=cuatro personas
+25;五;cinco;いつ;ゴ;五つ(いつ　つ)=cinco cosas;五月(ご　がつ)=mayo;五日(いつ　か)=dia cinco;五年(ご　ねん)=cinco años;五人(ご　にん)=cinco personas
+26;六;seis;むっ;ロク,ゴッ;六つ(むっ　つ)=seis cosas;六月(ろく　がつ)=junio;六日(むい　か)=dia seis;六年(ろく　ねん)=seis años
+27;七;siete;なな;シチ;七つ(なな　つ)=siete cosas;七月(なな　がつ)=julio;七日(なの　か)=dia siete;七年(しち　ねん)=siete años;七人(しち　にん)=siete personas
+28;八;ocho;やっ;ハチ,ハッ;八つ(やっ　つ)=ocho cosas;八月(はち　がつ)=agosto;八百(はっ　ぴゃく)=800;八日(よう　か)=dia ocho;八年(はち　ねん)=ocho años;八人(はち　にん)=ocho personas
+29;九;nueve;ここの;ク,キュウ;九つ(ここの　つ)=nueve cosas;九月(く　がつ)=septiembre;九日(ここの　か)=dia nueve;九百(きぃう　ひゃく)=900;九人(きゅう　にん)=nueve personas
+30;十;diez;とお;ジュウ,ジュッ,ジッ;十(とお)=diez cosas;十月(じゅう　がつ)=octubre;十日(とお　か)=dia diez;十年(じゅう　ねん)=diez años
+31;百;cien;;ヒャク,ビャク,ピャク;二百(に　ひゃく)=200;六百(ろっ　ぴゃく)=600;三百(さん　びゃく)=300;八百(はっ　ぴゃく)=800
+32;千;mil;ち;セン,ゼン;千円(せん　えん)=1000 yenes;三千(さん　ぜん)=3000 yenes;千葉(ち　ば)=Chiba
+33;万;diez mil,todo;;マン,バン;一万円(いち　まん　えん)=10000 yenes;万国(ばん　こく)=todos los paises;万歳(ばん　ざい)=larga vida
+34;円;yen,circulo;;エン;円(えん)=yen;五千円(ご　せん　えん)=5000 yenes;百円(ひゃく　えん)=100 yenes
+35;年;año,edad;とし;ネン;年上(とし　うえ)=persona mayor;去年(きょ　ねん)=año pasado;来年(らい　ねん)=año que viene;今年(こと　し)=este año
 #10;;;,,,,;,,,,;()=;()=;()=;()=
