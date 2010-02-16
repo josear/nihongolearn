@@ -22,7 +22,7 @@
 21;一;uno;ひと;イチ;一つ(ひと　つ)=una cosa;一月(いち　がつ)=enero;一人(ひと　り)=una persona;一年(いち　ねん)=un año
 22;二;dos;ふた;ニ;二つ(ふた　つ)=dos cosas;二月(に　がつ)=febrero;二人(ふた　り)=dos personas;二年(に　ねん)=dos años;二年間(に　ねん　かん)=durante dos años
 23;三;tres;みっ;セン;三つ(みっ　つ)=tres cosas;三月(さん　がつ)=marzo;三日(みっ　か)=dia tres;三年(さん　ねん)=tres años
-24;四;cuatro;よっ,よん,よ;シ;四つ(よっ　つ)=cuatro cosas;四月(し　がつ)=abril;四日(よっ　か)=dia cinco;四年(よ　ねん)=cuatro años;四人(よ　にん)=cuatro personas
+24;四;cuatro;よっ,よん,よ;シ;四つ(よっ　つ)=cuatro cosas;四月(し　がつ)=abril;四日(よっ　か)=dia cuatro;四年(よ　ねん)=cuatro años;四人(よ　にん)=cuatro personas
 25;五;cinco;いつ;ゴ;五つ(いつ　つ)=cinco cosas;五月(ご　がつ)=mayo;五日(いつ　か)=dia cinco;五年(ご　ねん)=cinco años;五人(ご　にん)=cinco personas
 26;六;seis;むっ;ロク,ゴッ;六つ(むっ　つ)=seis cosas;六月(ろく　がつ)=junio;六日(むい　か)=dia seis;六年(ろく　ねん)=seis años
 27;七;siete;なな;シチ;七つ(なな　つ)=siete cosas;七月(なな　がつ)=julio;七日(なの　か)=dia siete;七年(しち　ねん)=siete años;七人(しち　にん)=siete personas
