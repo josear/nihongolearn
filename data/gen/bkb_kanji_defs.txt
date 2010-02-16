@@ -33,3 +33,13 @@
 万	diez mil,todo
 円	yen,circulo
 年	año,edad
+上	encima,sobre,arriba,superior
+下	debajo,abajo,inferior
+中	dentro,medio
+大	grande,gran
+小	pequeño,poco
+本	raíz,origen,verdad,principal
+半	mitad
+分	división,parte,minuto
+力	fuera,poder,habilidad
+何	qué

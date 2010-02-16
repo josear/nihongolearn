@@ -34,4 +34,14 @@
 33;万;diez mil,todo;;マン,バン;一万円(いち　まん　えん)=10000 yenes;万国(ばん　こく)=todos los paises;万歳(ばん　ざい)=larga vida
 34;円;yen,circulo;;エン;円(えん)=yen;五千円(ご　せん　えん)=5000 yenes;百円(ひゃく　えん)=100 yenes
 35;年;año,edad;とし;ネン;年上(とし　うえ)=persona mayor;去年(きょ　ねん)=año pasado;来年(らい　ねん)=año que viene;今年(こと　し)=este año
-#10;;;,,,,;,,,,;()=;()=;()=;()=
+36;上;encima,sobre,arriba,superior;うえ,あ,のば;ジョウ;上(うえ)=encima;上る(のぼ　る)=subir;上げる(あ　げる)=subir;上手(じょう　ず)=habilidoso
+37;下;debajo,abajo,inferior;した,さ,くだ;カ,ゲ;下(した)=debajo;年下(とし　した)=más joven;下がる(さ　がる)=bajar;下車する(げ　しゃ　する)=bajarse
+38;中;dentro,medio;なか;チュウ,ジュウ;中(なか)=dentro;一日中(いち　にち　じゅう)=todo el día;中心(ちゅう　しん)=centro
+39;大;grande,gran;おお;ダイ,タイ;大きい(おお　きい)=grande;大切な(たい　せつ　な)=importante;大学(だい　がく)=universidad;大人(お　とな)=adulto
+40;小;pequeño,poco;ちい,こ,お;ジョウ;小さい(ちい　さい)=pequeño;小学校(しょう　がっ　こう)=escuela primaria;小人(こ　ども)=niño;小川(お　がわ)=riachuelo
+41;本;raíz,origen,verdad,principal;もと;ホン;山本(やま　もと)=Sr. Yamamoto;本日(ほん　じつ)=este día;本(ほん)=libro;本店(ほん　てん)=oficina central
+42;半;mitad;なか;ハン;半ば(なか　ば)=medio;半年(はん　とし)=mitad de año;半分(はん　ぶん)=mitad;三時半(さん　じ　はん)=3:30
+43;分;división,parte,minuto;わ;ブン,ブ,フン,プン;分ける(わ　ける)=dividir;五分(ご　ふん)=5 minutos;分かる(わ　かる)=entender;六分(ろく　ぶん)=6 minutos
+44;力;fuera,poder,habilidad;ちから;リョク,リキ;力(ちから)=fuerza;力学(りき　がく)=dinámica;実力(じつ　りょく)=verdadera habilidad
+45;何;qué;なに,なん;;何(なに)=qué;何人(なん　にん)=cuánta gente;何ですか(なん　ですか)=qué es?;何年(なん　ねん)=qué año
+#40;;;,,,,;,,,,;()=;()=;()=;()=

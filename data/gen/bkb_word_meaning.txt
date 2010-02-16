@@ -71,7 +71,7 @@
 三年	tres años
 四つ	cuatro cosas
 四月	abril
-四日	dia cinco
+四日	dia cuatro
 四年	cuatro años
 四人	cuatro personas
 五つ	cinco cosas
@@ -119,3 +119,40 @@
 去年	año pasado
 来年	año que viene
 今年	este año
+上	encima
+上る	subir
+上げる	subir
+上手	habilidoso
+下	debajo
+年下	más joven
+下がる	bajar
+下車する	bajarse
+中	dentro
+一日中	todo el día
+中心	centro
+大きい	grande
+大切な	importante
+大人	adulto
+小さい	pequeño
+小学校	escuela primaria
+小人	niño
+小川	riachuelo
+山本	Sr. Yamamoto
+本日	este día
+本	libro
+本店	oficina central
+半ば	medio
+半年	mitad de año
+半分	mitad
+三時半	3:30
+分ける	dividir
+五分	5 minutos
+分かる	entender
+六分	6 minutos
+力	fuerza
+力学	dinámica
+実力	verdadera habilidad
+何	qué
+何人	cuánta gente
+何ですか	qué es?
+何年	qué año
