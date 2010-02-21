@@ -32,14 +32,6 @@ sub dataIter {
 	}
 }
 
-sub wordIter {
-	my ($sub) = shift;
-
-	foreach my $word (@WORDS) {
-		&$sub($word);
-	}
-}
-
 sub loadDefs {
 	open (FILE, $file_name)
 		or die "Can't open $file_name: $!\n";
