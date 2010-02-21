@@ -1,0 +1,158 @@
+日	sol,dia	ひ	日
+日本	Japón	に ほん	日本
+日曜日	domingo	にち よう び	日よう日
+三日	dia 3	みっ か	三日
+月	luna,mes	つき	月
+月曜日	lunes	げつ よう び	月よう日
+一月	enero	いち がつ	一月
+一か月	un mes	いっ か げつ	一か月
+木	árbol	き	木
+木曜日	jueves	もく よう び	木よう日
+木村	Sr. Kimura	き むら	木むら
+山	montaña	やま	山
+富士山	monte Fuji	ふ じ さん	ふじ山
+山下	Sr. Yamashita	やま した	山下
+火山	volcán	か ざん	火山
+川	rio	かわ	川
+ナイル川	rio Nilo	ナイル かわ	ナイル川
+田んぼ	arrozal	た んぼ	田んぼ
+山田	sr. Yamada	やまだ	山田
+水田	arrozal inundado	すい でん	水田
+田中	Sr. Tanaka	た なか	田中
+人	hombre,persona	ひと	人
+三人	3 personas	さん にん	三人
+日本人	japonés	に ほん じん	日本人
+口	boca	くち	口
+入口	entrada	いり ぐち	いり口
+出口	salida	で ぐち	で口
+人口	población	じん こう	人口
+車	coche	くるま	車
+自動車	automovil	し どう しゃ	しどう車
+電車	tren	でん しゃ	でん車
+門	portón	もん	門
+専門	especialidad	せん もん	せん門
+火	fuego	ひ	火
+火曜日	martes	か よう び	火よう日
+水	agua	みず	水
+水曜日	miercoles	すい よう よび	水よう日
+お金	dinero	お かね	お金
+金	oro	きん	金
+金田	Sr. Kaneda	かね だ	金田
+金曜日	viernes	きん よう び	金よう日
+土	suelo	つち	土
+土曜日	sábado	ど よう び	土よう日
+土木	obra civil	ど ぼく	土木
+子ども	niño	こ ども	子ども
+女子学生	niña estudiante	じょ し がく せい	女子学生
+女の子	chica	おんな の こ	女の子
+女	mujer	おんな	女
+彼女	ella	かの じょ	かの女
+女の人	mujer	おんな の ひと	女の人
+学生	estudiante	がく せい	学生
+学校	escuela	がっ こう	学こう
+大学	universidad	だい がく	大学
+生きる	vivir	い きる	生きる
+生まれる	nacer	う まれる	生まれる
+先生	maestro	せん せい	先生
+先	adelante	さき	先
+先月	el mes pasado	せん げつ	先月
+私	yo	わたし	私
+私立大学	universidad privada	し りつ だい がく	私りつ大学
+一つ	una cosa	ひと つ	一つ
+一人	una persona	ひと り	一人
+一年	un año	いち ねん	一年
+二つ	dos cosas	ふた つ	二つ
+二月	febrero	に がつ	二月
+二人	dos personas	ふた り	二人
+二年	dos años	に ねん	二年
+二年間	durante dos años	に ねん かん	二年かん
+三つ	tres cosas	みっ つ	三つ
+三月	marzo	さん がつ	三月
+三年	tres años	さん ねん	三年
+四つ	cuatro cosas	よっ つ	四つ
+四月	abril	し がつ	四月
+四日	dia cuatro	よっ か	四日
+四年	cuatro años	よ ねん	四年
+四人	cuatro personas	よ にん	四人
+五つ	cinco cosas	いつ つ	五つ
+五月	mayo	ご がつ	五月
+五日	dia cinco	いつ か	五日
+五年	cinco años	ご ねん	五年
+五人	cinco personas	ご にん	五人
+六つ	seis cosas	むっ つ	六つ
+六月	junio	ろく がつ	六月
+六日	dia seis	むい か	六日
+六年	seis años	ろく ねん	六年
+七つ	siete cosas	なな つ	七つ
+七月	julio	なな がつ	七月
+七日	dia siete	なの か	七日
+七年	siete años	しち ねん	七年
+七人	siete personas	しち にん	七人
+八つ	ocho cosas	やっ つ	八つ
+八月	agosto	はち がつ	八月
+八百	800	はっ ぴゃく	八百
+八日	dia ocho	よう か	八日
+八年	ocho años	はち ねん	八年
+八人	ocho personas	はち にん	八人
+九つ	nueve cosas	ここの つ	九つ
+九月	septiembre	く がつ	九月
+九日	dia nueve	ここの か	九日
+九百	900	きぃう ひゃく	九百
+九人	nueve personas	きゅう にん	九人
+十	diez cosas	とお	十
+十月	octubre	じゅう がつ	十月
+十日	dia diez	とお か	十日
+十年	diez años	じゅう ねん	十年
+二百	200	に ひゃく	二百
+六百	600	ろっ ぴゃく	六百
+三百	300	さん びゃく	三百
+千円	1000 yenes	せん えん	千円
+三千	3000 yenes	さん ぜん	三千
+千葉	Chiba	ち ば	千ば
+一万円	10000 yenes	いち まん えん	一万円
+万国	todos los paises	ばん こく	万こく
+万歳	larga vida	ばん ざい	万ざい
+円	yen	えん	円
+五千円	5000 yenes	ご せん えん	五千円
+百円	100 yenes	ひゃく えん	百円
+年上	persona mayor	とし うえ	年上
+去年	año pasado	きょ ねん	きょ年
+来年	año que viene	らい ねん	らい年
+今年	este año	こと し	こと年
+上	encima	うえ	上
+上る	subir	のぼ る	上る
+上げる	subir	あ げる	上げる
+上手	habilidoso	じょう ず	上ず
+下	debajo	した	下
+年下	más joven	とし した	年下
+下がる	bajar	さ がる	下がる
+下車する	bajarse	げ しゃ する	下車する
+中	dentro	なか	中
+一日中	todo el día	いち にち じゅう	一日中
+中心	centro	ちゅう しん	中しん
+大きい	grande	おお きい	大きい
+大切な	importante	たい せつ な	大せつな
+大人	adulto	お とな	大人
+小さい	pequeño	ちい さい	小さい
+小学校	escuela primaria	しょう がっ こう	小学こう
+小人	niño	こ ども	小人
+小川	riachuelo	お がわ	小川
+山本	Sr. Yamamoto	やま もと	山本
+本日	este día	ほん じつ	本日
+本	libro	ほん	本
+本店	oficina central	ほん てん	本てん
+半ば	medio	なか ば	半ば
+半年	mitad de año	はん とし	半年
+半分	mitad	はん ぶん	半分
+三時半	3:30	さん じ はん	三じ半
+分ける	dividir	わ ける	分ける
+五分	5 minutos	ご ふん	五分
+分かる	entender	わ かる	分かる
+六分	6 minutos	ろく ぶん	六分
+力	fuerza	ちから	力
+力学	dinámica	りき がく	力学
+実力	verdadera habilidad	じつ りょく	じつ力
+何	qué	なに	何
+何人	cuánta gente	なん にん	何人
+何ですか	qué es?	なん ですか	何ですか
+何年	qué año	なん ねん	何年
