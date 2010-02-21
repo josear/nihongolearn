@@ -1,6 +1,7 @@
 #!/usr/bin/perl -w
 
 use Getopt::Long;
+use utf8;
 
 my @DEFS;
 my %WORDS;
@@ -16,6 +17,9 @@ GetOptions(
 	"iter=s" => \$iter,
 	"fields=s" => \$fields,
 );
+
+binmode STDOUT, ":utf8";
+binmode STDERR, ":utf8";
 
 loadDefs();
 
@@ -33,7 +37,7 @@ sub dataIter {
 }
 
 sub loadDefs {
-	open (FILE, $file_name)
+	open (FILE, "<:utf8", $file_name)
 		or die "Can't open $file_name: $!\n";
 	while (<FILE>) {
 		next if /^\s*#/; # Ignore comments
@@ -46,6 +50,9 @@ sub loadDefs {
 		$def{Defs} = shift @f;
 		$def{Kunyomi} = [ split(/,/, shift @f) ];
 		$def{Onyomi} = [ split(/,/, shift @f) ];
+
+		$KANJI{$def{Kanji}} = \%def;
+
 		my @words;
 		while (@f) {
 			my $word = shift @f;
@@ -57,6 +64,7 @@ sub loadDefs {
 				Pronun => $2,
 				Meaning => $3
 			);
+
 			push @words, \%word;
 			push @WORDS, \%word
 				unless exists $WORDS{$1};
@@ -67,4 +75,44 @@ sub loadDefs {
 		push @DEFS, \%def;
 	}
 	close(FILE);
+
+	foreach my $word (@WORDS) {
+		$word->{LearnWord} = getLearnWord($word->{Word}, $word->{Pronun});
+	}
+}
+
+sub getLearnWord {
+	my ($word, $pronun) = @_;
+
+	my $learn_word = '';
+	my @word = split(//, $word);
+	my @pronun = split(//, $pronun);
+
+	while (@word) {
+		my $char = shift @word;
+
+		shift @pronun while (@pronun && $pronun[0] eq ' ');
+
+		if (exists $KANJI{$char}) {
+			$learn_word .= $char;
+			1 while (@pronun && shift @pronun ne ' ');
+			next;
+		}
+
+		die "ERROR: $word ($word, $pronun, $char)\n"
+			if (!$char || !$pronun[0]);
+
+		if ($char eq $pronun[0]) {
+			$learn_word .= shift @pronun;
+		} else {
+			do {
+				$learn_word .= shift @pronun;
+			} while (@pronun && $pronun[0] ne ' ');
+		}
+	}
+
+	die "ERROR: Tailing pronun: $word ($word, $pronun, @pronun)\n"
+		if @pronun;
+	
+	$learn_word
 }

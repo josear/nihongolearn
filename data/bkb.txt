@@ -1,9 +1,9 @@
 # ﻿n,kanji,significado,kunyomi,onyomi,exemplos
-1;日;sol,dia;ひ,-び,-か;二,ニチ;日(ひ)=sol,dia;日本(に　ほん/にっ　ぽん)=Japón;日曜日(にち よう び)=domingo;三日(みっ　か)=dia 3
+1;日;sol,dia;ひ,-び,-か;二,ニチ;日(ひ)=sol,dia;日本(に　ほん)=Japón;日曜日(にち よう び)=domingo;三日(みっ　か)=dia 3
 2;月;luna,mes;つき;ゲツ,ガツ;月(つき)=luna,mes;月曜日(げつ　よう　び)=lunes;一月(いち　がつ)=enero;一か月(いっ　か　げつ)=un mes
 3;木;árbol;き;モク,ボク;木(き)=árbol;木曜日(もく　よう　び)=jueves;木村(き　むら)=Sr. Kimura
 4;山;montaña;やま;セン;山(やま)=montaña;富士山(ふ　じ　さん)=monte Fuji;山下(やま　した)=Sr. Yamashita;火山(か　ざん)=volcán
-5;川;rio;かわ,がわ;;川(かわ)=rio;ナイル川(ないる　かわ)=rio Nilo
+5;川;rio;かわ,がわ;;川(かわ)=rio;ナイル川(ナイル　かわ)=rio Nilo
 6;田;arrozal;た,だ;デン;田んぼ(た　んぼ)=arrozal;山田(やまだ)=sr. Yamada;水田(すい　でん)=arrozal inundado;田中(た　なか)=Sr. Tanaka
 7;人;hombre,persona;ひと;ジン,ニン;人(ひと)=hombre,persona;三人(さん　にん)=3 personas;日本人(に　ほん　じん)=japonés
 8;口;boca;くち,ぐち;コウ;口(くち)=boca;入口(いり　ぐち)=entrada;出口(で　ぐち)=salida;人口(じん　こう)=población
