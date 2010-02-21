@@ -20,21 +20,14 @@ GetOptions(
 loadDefs();
 
 my @fields = split(',', $fields);
-if ($iter eq 'def') {
-	defIter(sub { print join($delim, map { $_[0]->{$_} } @fields),"\n" });
-}
-if ($iter eq 'words') {
-	wordIter(sub { print join($delim, map { $_[0]->{$_} } @fields),"\n" });
-}
+my $what = $iter eq 'def' ? \@DEFS : \@WORDS;
 
-#wordIter(sub { print join($delim, $_[0]->{Word}, $_[0]->{Pronun}),"\n" });
-#wordIter(sub { print join($delim, $_[0]->{Word}, $_[0]->{Meaning}),"\n" });
-#wordIter(sub { print join($delim, $_[0]->{Word}, $_[0]->{Meaning}),"\n" });
+dataIter(sub { print join($delim, map { $_[0]->{$_} } @fields),"\n" }, $what);
 
-sub defIter {
-	my ($sub) = shift;
+sub dataIter {
+	my ($sub, $what) = @_;
 
-	foreach my $def (@DEFS) {
+	foreach my $def (@$what) {
 		&$sub($def);
 	}
 }
