@@ -1,0 +1,4 @@
+# Topic:Meaning:Example
+です:ser, estar:私は学生です (Soy un estudiante)
+も:también:私は日本人です。あなたも日本人です (Soy Japonés. Tú también eres japonés)
+
